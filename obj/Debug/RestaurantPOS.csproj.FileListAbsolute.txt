@@ -1,0 +1,45 @@
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.exe.config
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.exe
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.pdb
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csprojAssemblyReference.cache
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.MainForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Properties.Resources.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.GenerateResource.cache
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.CoreCompileInputs.cache
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.exe
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.pdb
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.MenuForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.OrderForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.TablesForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.LoginForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.AddUserForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.MenuItemForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.ActiveOrdersForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.ActiveOrderPreviewForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.ClosedOrdersForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.StaffMembers.StaffMemberForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.StaffMembers.StaffForm.resources
+C:\Users\gerga\Desktop\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.ResolveComReference.cache
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.exe.config
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.exe
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.pdb
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.AssemblyReference.cache
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.ResolveComReference.cache
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.StaffMembers.StaffForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.StaffMembers.StaffMemberForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.AddUserForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.ActiveOrderPreviewForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.ActiveOrdersForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.ClosedOrdersForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.MenuForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.MenuItemForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.OrderForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Forms.TablesForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.LoginForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.MainForm.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Properties.Resources.resources
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.GenerateResource.cache
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.CoreCompileInputs.cache
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.exe
+C:\Users\gerga\Documents\UNWE\Thesis Project\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.pdb
